@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm a Software Development student passionate about building engaging and functional applications. I'm currently exploring the full-stack landscape, with a strong foundation in front-end web development using HTML, CSS, and JavaScript.<br><br>In my studies at Southern Alberta Institute of Technology(SAIT), I'm gaining hands-on experience with the Software Development Life Cycle (SDLC), User Experience (UX) Design principles, C#, SQL, Networking, Linux, Docker, and Computer Science fundamentals. I'm also expanding my back-end skills by learning Java through CodeGym University.<br><br>I love to apply my knowledge through personal projects, where I'm particularly interested in integrating APIs from platforms like Google (including Gemini AI, Calendar, Maps, and YouTube). To continuously sharpen my front-end skills, I also enjoy tackling challenges on Frontend Mentor.<br><br>My goal for this GitHub profile is to showcase my personal projects – and perhaps some interesting school projects – to future employers and the wider developer community. I'm especially enthusiastic about learning and working with APIs to create innovative solutions.
+Software Development student at SAIT, currently building full-stack skills with a foundation in front-end (HTML, CSS, JavaScript).
+
+Hands-on experience with C#, SQL, Networking, Linux, Docker, and Computer Science fundamentals. Expanding back-end skills through Java at CodeGym University.
+
+
+Exploring REST API's integrations (Google Gemini AI, Calendar, Maps, YouTube) in personal projects and improving front-end skills with Frontend Mentor challenges. Showcasing personal and school projects here.
 
 
 ## 🌐 Socials:
