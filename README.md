@@ -21,17 +21,7 @@ Exploring REST API's integrations (Google Gemini AI, Calendar, Maps, YouTube) in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayco01&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&start_date=2025-01-01" alt="Your Top Languages"/>
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-JSX              6 hrs 21 mins   ███████████████████████▓░   95.14 %
-Java             0 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-INI              0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Json             0 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-XML              0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-```
-
-<!--END_SECTION:waka-->
+![My Coding Stats](metrics.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayco01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
