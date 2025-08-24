@@ -23,4 +23,4 @@ jobs:
           SHOW_TIME: true
           TIME_RANGE: all_time
           SHOW_TOTAL: true
-          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
+          BLOCKS: "=>"
