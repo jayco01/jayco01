@@ -22,6 +22,15 @@ Exploring REST API's integrations (Google Gemini AI, Calendar, Maps, YouTube) in
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+JSX              6 hrs 21 mins   ███████████████████████▓░   95.14 %
+Java             0 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+INI              0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Json             0 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+XML              0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
