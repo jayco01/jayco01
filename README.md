@@ -21,7 +21,7 @@ Exploring REST API's integrations (Google Gemini AI, Calendar, Maps, YouTube) in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayco01&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&start_date=2025-01-01" alt="Your Top Languages"/>
 </div>
 
-![My Coding Stats](metrics.svg)
+![My Coding Stats](github-metrics.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayco01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
