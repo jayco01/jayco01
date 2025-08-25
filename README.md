@@ -6,10 +6,6 @@ Hands-on experience with C#, SQL, Networking, Linux, Docker, and Computer Scienc
 
 Exploring REST API's integrations (Google Gemini AI, Calendar, Maps, YouTube) in personal projects and improving front-end skills with Frontend Mentor challenges. Showcasing personal and school projects here.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-vincent-layco-39184116b/) 
-
 # 💻 Tech Stack:
 <table align="center">
   <tr>
