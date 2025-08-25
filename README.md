@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Development student at SAIT, currently building full-stack skills with a foundation in front-end (HTML, CSS, JavaScript).
+Software Development student at SAIT, currently building full-stack skills with a foundation in front-end React(JS) & Tailwind(CSS3).
 
 Hands-on experience with C#, SQL, Networking, Linux, Docker, and Computer Science fundamentals. Expanding back-end skills through Java at CodeGym University.
 
@@ -22,6 +22,8 @@ Exploring REST API's integrations (Google Gemini AI, Calendar, Maps, YouTube) in
 </div>
 
 <br/>
+
+# :hourglass_flowing_sand: Time Spent Programming:
     <!--START_SECTION:waka-->
 
 ```txt
