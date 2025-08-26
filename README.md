@@ -64,7 +64,10 @@ Markdown         0 hrs 9 mins    =========================   01.28 %
 <br/>
 
 ## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=jayco01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![](https://github-profile-trophy.vercel.app/?username=jayco01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
+<div align="center">
+  <img src="https://trophygh.kolioaris.xyz/?username=jayco01"/>
+</div>
 
 ## 🔝 Top Contributed Repo
 <div align="center">
