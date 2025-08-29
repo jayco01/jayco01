@@ -1,8 +1,5 @@
 # 💫 About Me:
-Software Development student at SAIT, currently building full-stack skills with a foundation in front-end React(JS) & Tailwind(CSS3).
-
-Hands-on experience with C#, SQL, Networking, Linux, Docker, and Computer Science fundamentals. Expanding back-end skills through Java at CodeGym University.
-
+Software Development student at SAIT, currently building full-stack skills with a foundation in front-end React(JS) & Tailwind(CSS3), while also expanding back-end skills through Java at CodeGym University.
 
 Exploring REST API's integrations (Google Gemini AI, Calendar, Maps, YouTube) in personal projects and improving front-end skills with Frontend Mentor challenges. Showcasing personal and school projects here.
 
