@@ -21,6 +21,6 @@ jobs:
 
           SHOW_TITLE: true 
           SHOW_TIME: true
-          TIME_RANGE: all_time
+          TIME_RANGE: 7_days
           SHOW_TOTAL: true
           BLOCKS: "=>"
