@@ -46,15 +46,15 @@ Exploring REST API's integrations (Google Gemini AI, Calendar, Maps, YouTube) in
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2025 - To: 04 November 2025
+From: 30 October 2025 - To: 05 November 2025
 
-Total Time: 12 hrs 36 mins
+Total Time: 10 hrs 10 mins
 
-JSX              8 hrs 13 mins   >>>>>>>>>>>>>>>>=========   65.17 %
-SQL              1 hrs 47 mins   >>>>=====================   14.18 %
-Java             1 hrs 43 mins   >>>======================   13.60 %
-Html             0 hrs 19 mins   >========================   02.49 %
-Plain_text       0 hrs 10 mins   =========================   01.29 %
+JSX              5 hrs 56 mins   >>>>>>>>>>>>>>>==========   58.42 %
+Java             1 hrs 57 mins   >>>>>====================   19.20 %
+SQL              1 hrs 47 mins   >>>>=====================   17.57 %
+Html             0 hrs 19 mins   >========================   03.08 %
+Json             0 hrs 5 mins    =========================   00.76 %
 ```
 
 <!--END_SECTION:waka-->
