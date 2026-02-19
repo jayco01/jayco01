@@ -50,11 +50,11 @@ From: 16 February 2026 - To: 16 February 2026
 
 Total Time: 0 hrs 0 mins
 
-XML              0 hrs 0 mins          =========================   00.00 %
-Json             0 hrs 0 mins          =========================   00.00 %
 JSX              0 hrs 0 mins          =========================   00.00 %
 Gitignore file   0 hrs 0 mins          =========================   00.00 %
 CSS              0 hrs 0 mins          =========================   00.00 %
+Markdown         0 hrs 0 mins          =========================   00.00 %
+XML              0 hrs 0 mins          =========================   00.00 %
 ```
 
 <!--END_SECTION:waka-->
